@@ -15,7 +15,7 @@ You can visit [my blog](https://ongthovuive.wordpress.com/2016/05/07/prolog-java
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://giphy.com/gifs/c-java-prolog-3o7qDHUbUw2C6d3eOQ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<iframe src='http://giphy.com/gifs/c-java-prolog-3o7qDHUbUw2C6d3eOQ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Note
 Maybe, you have to update packages such as:SwiPlCs,NUnit to run this source code.
