@@ -22,7 +22,7 @@ Maybe, you have to update packages such as:SwiPlCs,NUnit to run this source code
 
 ## License
 
-    Copyright [2016] [wosea]
+    Copyright 2016 wosea
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
